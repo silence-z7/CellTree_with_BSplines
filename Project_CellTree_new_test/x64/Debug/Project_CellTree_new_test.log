@@ -1,0 +1,7 @@
+﻿  main.cpp
+F:\MyProject\cpp\Project_CellTree_new_test\Project_CellTree_new_test\main.cpp(81,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+F:\MyProject\cpp\Project_CellTree_new_test\Project_CellTree_new_test\main.cpp(80): message : 在编译 类 模板 成员函数“int Nlists<BsplineNode<value_type> *>::size(void)”时
+F:\MyProject\cpp\Project_CellTree_new_test\Project_CellTree_new_test\main.cpp(749): message : 查看对正在编译的函数 模板 实例化“int Nlists<BsplineNode<value_type> *>::size(void)”的引用
+F:\MyProject\cpp\Project_CellTree_new_test\Project_CellTree_new_test\main.cpp(338): message : 查看对正在编译的 类 模板 实例化“Nlists<BsplineNode<value_type> *>”的引用
+F:\MyProject\cpp\Project_CellTree_new_test\Project_CellTree_new_test\main.cpp(689): message : 查看对正在编译的 类 模板 实例化“CellNode<value_type>”的引用
+  Project_CellTree_new_test.vcxproj -> F:\MyProject\cpp\Project_CellTree_new_test\x64\Debug\Project_CellTree_new_test.exe

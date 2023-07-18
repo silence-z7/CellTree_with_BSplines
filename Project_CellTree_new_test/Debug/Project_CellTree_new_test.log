@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\MyProject\cpp\Project_CellTree_new_test\Project_CellTree_new_test\main.cpp(579,28): error C2664: “DWORD GetCurrentDirectoryW(DWORD,LPWSTR)”: 无法将参数 2 从“char [1000]”转换为“LPWSTR”
+F:\MyProject\cpp\Project_CellTree_new_test\Project_CellTree_new_test\main.cpp(579,35): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processenv.h(254,1): message : 参见“GetCurrentDirectoryW”的声明
+F:\MyProject\cpp\Project_CellTree_new_test\Project_CellTree_new_test\main.cpp(579,28): message : “GetCurrentDirectoryW”: 函数声明必须可用，因为所有参数都不依赖于模板参数
+F:\MyProject\cpp\Project_CellTree_new_test\Project_CellTree_new_test\main.cpp(589): message : 查看对正在编译的 类 模板 实例化“CellTree<T>”的引用
